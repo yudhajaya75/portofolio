@@ -40,7 +40,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://konselingsatir.com/about",
 		},
-
+		{
+			title: "Konseling Satir",
+			description:
+				"discusses phenomena that occur in everyday life through a satirical model",
+			logo: "../satir.jpg",
+			linkText: "View Project",
+			link: "https://konselingsatir.com/about",
+		},
 	],
 };
 
